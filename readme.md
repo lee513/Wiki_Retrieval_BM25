@@ -1,3 +1,4 @@
-
-![nn](Retrieval 흐름설계.png)
+Use BM25 for Wiki Retrieval
+==============
+![nn](autoencoder.jpg)
 
